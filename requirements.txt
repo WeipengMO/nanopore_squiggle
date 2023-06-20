@@ -1,0 +1,3 @@
+numpy
+pandas
+ont_fast5_api
