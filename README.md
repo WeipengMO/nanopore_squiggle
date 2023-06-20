@@ -6,8 +6,8 @@ Jupyter Notebooks ([raw_signal_visual.ipynb](notebooks/raw_signal_visual.ipynb))
 
 ## Roadmap
 
-- [] [SLOW5 format](https://github.com/hasindu2008/slow5tools) support.
-- [] Visualise [f5c](https://github.com/hasindu2008/f5c) resquiggle.
+- [ ] [SLOW5 format](https://github.com/hasindu2008/slow5tools) support.
+- [ ] Visualise [f5c](https://github.com/hasindu2008/f5c) resquiggle.
 
 ## LICENSE
 
